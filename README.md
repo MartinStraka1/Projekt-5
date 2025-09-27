@@ -1,20 +1,16 @@
-# Power BI Projekt 5 – Analýza mezd a cen v ČR
+# Power BI Projekt 5 – Analýza mezd a cen
 
 Tento projekt byl vytvořen v rámci **Engeto Online Akademie**. 
-Cílem bylo analyzovat vývoj mezd, cen potravin a kupní síly obyvatel České republiky pomocí interaktivního Power BI reportu.
+Cílem bylo analyzovat vývoj mezd, cen potravin a hdp pomocí interaktivního Power BI reportu.
 
 ## Obsah reportu
 
-- Vývoj mezd v čase podle odvětví
-- Kupní síla
-- Vývoj cen potravin v čase
-- Průměrná mzda podle odvětví (v Kč)
-- Porovnání cen potravin podle krajů
-- Srovnání průměrné mzdy a ceny potravin podle krajů
+- Mzdy
+- HDP
+- Srovnání cen
 - Interaktivní ovládací prvky:
   - slicery (rok, odvětví, produkt)
   - navigační tlačítka mezi stránkami
-  - odkazy na externí zdroje (ČSÚ)
 
 ## Použité technologie
 
